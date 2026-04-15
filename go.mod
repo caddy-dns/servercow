@@ -1,6 +1,6 @@
 module github.com/caddy-dns/servercow
 
-go 1.21
+go 1.25.0
 
 replace github.com/libdns/servercow => ../libdns-servercow
 
