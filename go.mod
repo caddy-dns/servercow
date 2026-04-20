@@ -1,12 +1,10 @@
 module github.com/caddy-dns/servercow
 
-go 1.25.0
-
-replace github.com/libdns/servercow => ../libdns-servercow
+go 1.21
 
 require (
 	github.com/caddyserver/caddy/v2 v2.11.2
-	github.com/libdns/servercow v0.0.0
+	github.com/libdns/servercow v0.1.0
 )
 
 require (
