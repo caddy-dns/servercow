@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/caddyserver/caddy/v2 v2.11.2
-	github.com/libdns/servercow v0.1.0
+	github.com/libdns/servercow v0.2.0
 )
 
 require (
